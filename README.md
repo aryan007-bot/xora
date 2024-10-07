@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">Modern UI/UX SaaS Website</h3>
 </div>
-![1 svg](https://github.com/user-attachments/assets/1674f1ed-da02-4d12-b049-269b464ced65)
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -27,3 +27,6 @@
 - **Seamless Navigation**: Offers a smooth user experience with intuitive navigation and scrolling.
 - **Optimized Performance**: Built for fast loading and an optimized experience.
 - **Pixel Perfect Design**: Ensures flawless responsiveness across all devices and screen sizes.
+
+- 
+![1 svg](https://github.com/user-attachments/assets/1674f1ed-da02-4d12-b049-269b464ced65)
